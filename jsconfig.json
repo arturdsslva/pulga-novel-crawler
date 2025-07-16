@@ -4,5 +4,5 @@
     "module": "commonjs",
     "checkJs": true
   },
-  "include": ["*.js", "lib/main.js"]
+  "include": ["*.js", "src/main.js"]
 }
